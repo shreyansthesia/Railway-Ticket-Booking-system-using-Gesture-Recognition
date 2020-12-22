@@ -3,4 +3,4 @@ A CNN based gesture recognition system used to book railway tickets without any 
 
 first collect the data using datacoll.py file 
 than train the model and create the weights
-the test the model
+then test the model
